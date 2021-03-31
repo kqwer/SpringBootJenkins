@@ -1,1 +1,1 @@
-This is activity to practise Spring Fundamentals with XML Configurations
+This is activity to practise Spring Fundamentals with XML Configurations. here we use getters and setters
